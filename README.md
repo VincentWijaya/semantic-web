@@ -1,3 +1,3 @@
 # semantic-web
 
-Demo: https://vincentwijaya.github.io/semantic-web/#services
+Demo: https://vincentwijaya.github.io/semantic-web/
